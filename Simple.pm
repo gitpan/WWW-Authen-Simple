@@ -15,7 +15,7 @@ use lib './';
 use vars qw($VERSION $REVISION);
 
 $REVISION = sprintf "%d.%03d", q$Revision: 1.24 $ =~ /(\d+)/g;
-$VERSION = '1.21';
+$VERSION = '1.22';
 
 # Config for table layout and such.
 # we'll provide methods to override this, so that WWW:A:S can 

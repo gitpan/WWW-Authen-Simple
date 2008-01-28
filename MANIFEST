@@ -9,3 +9,4 @@ examples/README
 examples/addusers.pl
 examples/example.pl
 examples/mysql_schema.sql
+META.yml                                 Module meta-data (added by MakeMaker)

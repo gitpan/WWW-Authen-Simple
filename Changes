@@ -32,3 +32,6 @@ Revision history for Perl extension WWW::Authen::Simple.
 	- Added examples (db schema, cgi script, add users script)
 	- Cleaned up test comments
 
+1.22  Sun Jan 27 23:16:00 2008
+	- Fixed SKIP section in tests.
+
